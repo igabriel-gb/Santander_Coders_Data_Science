@@ -1,0 +1,17 @@
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+--- a/.idea/modules.xml	
++++ b/.idea/modules.xml	
+@@ -2,7 +2,7 @@
+ <project version="4">
+   <component name="ProjectModuleManager">
+     <modules>
+-      <module fileurl="file://$USER_HOME$/DataspellProjects/Compass/.idea/Compass.iml" filepath="$USER_HOME$/DataspellProjects/Compass/.idea/Compass.iml" />
++      <module fileurl="file://$USER_HOME$/DataspellProjects/.idea/DataspellProjects.iml" filepath="$USER_HOME$/DataspellProjects/.idea/DataspellProjects.iml" />
+       <module fileurl="file://$PROJECT_DIR$/.idea/workspace.iml" filepath="$PROJECT_DIR$/.idea/workspace.iml" />
+     </modules>
+   </component>

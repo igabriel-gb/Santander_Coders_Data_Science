@@ -1,0 +1,14 @@
+Index: .idea/workspace.iml
+===================================================================
+diff --git a/.idea/workspace.iml b/.idea/workspace.iml
+--- a/.idea/workspace.iml	
++++ b/.idea/workspace.iml	
+@@ -3,6 +3,6 @@
+   <component name="NewModuleRootManager">
+     <orderEntry type="inheritedJdk" />
+     <orderEntry type="sourceFolder" forTests="false" />
+-    <orderEntry type="module" module-name="Compass" />
++    <orderEntry type="module" module-name="DataspellProjects" />
+   </component>
+ </module>
+\ No newline at end of file
